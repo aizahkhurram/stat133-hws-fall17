@@ -2,10 +2,10 @@
 
 Repository for HW assignments of Stat 133 (Fall 2017)
 
-- Student name: First Last
-- Github username: usrname
-- Lab section: 101
-- GSI: Leia Organa
+- Student name: Aizah Khurram	
+- Github username: aizahkhurram
+- Lab section: 102
+- GSI: Andy Mao
 
 -----
 
